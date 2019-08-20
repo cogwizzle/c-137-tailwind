@@ -1,0 +1,33 @@
+{
+  "name": "c-137-tailwind",
+  "version": "0.1.0",
+  "description": "Tailwind CSS configuration for C-137 components.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfehrman/c-137-tailwind.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css",
+    "react",
+    "angular",
+    "web",
+    "components",
+    "javascript",
+    "web",
+    "html"
+  ],
+  "author": "Joseph Fehrman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfehrman/c-137-tailwind/issues"
+  },
+  "homepage": "https://github.com/jfehrman/c-137-tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^1.1.2"
+  }
+}
